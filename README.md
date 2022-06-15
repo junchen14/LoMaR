@@ -1,7 +1,7 @@
 ## LoMaR
 
 <p align="center">
-  <img src="assests/model_architecture.jpg" width="240">
+  <img src="assests/model_architecture.jpg" width="360">
 </p>
 
 
@@ -33,7 +33,7 @@ python setup.py install --user
 <th valign="bottom">Pretrain Logs</th>
 <th valign="bottom">Finetune Logs</th>
 <!-- TABLE BODY -->
-<td align="center">ViT/B-16</td>
+<tr><td align="center">ViT/B-16</td>
 <td align="center">LoMaR</td>
 <td align="center">1600</td>
 <td align="center">84.1</td>

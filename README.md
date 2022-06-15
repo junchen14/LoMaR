@@ -1,4 +1,4 @@
-## LoMaR
+## LoMaR (Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction)
 
 <p align="center">
   <img src="assests/model_architecture.jpg" width="500">

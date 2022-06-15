@@ -1,7 +1,7 @@
 ## LoMaR
 
 <p align="center">
-  <img src="assests/model_architecture.jpg" width="360">
+  <img src="assests/model_architecture.jpg" width="400">
 </p>
 
 
@@ -28,7 +28,6 @@ python setup.py install --user
 <th valign="bottom">Backbones</th>
 <th valign="bottom">Method</th>
 <th valign="bottom">Pretrain Epochs</th>
-<th valign="bottom">Top-1 Acc</th>
 <th valign="bottom">Pretrained Weights</th>
 <th valign="bottom">Pretrain Logs</th>
 <th valign="bottom">Finetune Logs</th>
@@ -36,7 +35,6 @@ python setup.py install --user
 <tr><td align="center">ViT/B-16</td>
 <td align="center">LoMaR</td>
 <td align="center">1600</td>
-<td align="center">84.1</td>
 <td align="center"><a href="https://drive.google.com/file/d/160kBTk95xOOCDVKPmxVADWtfqSMzRexW/view?usp=sharing">download</a></td>
 <td align="center"><a href="https://drive.google.com/file/d/1OltaZ1JXVDqkYA72ZjbGRA1QzwAqktsU/view?usp=sharing">download</a></td>
 <td align="center"><a href="https://drive.google.com/file/d/1in72Z5ZPcfYuKnfLcwkIjyBOXXPi4CE7/view?usp=sharing">download</a></td>

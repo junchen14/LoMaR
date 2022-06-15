@@ -1,7 +1,7 @@
 ## LoMaR
 
 <p align="center">
-  <img src="assests/model_architecture.jpg" width="400">
+  <img src="assests/model_architecture.jpg" width="500">
 </p>
 
 

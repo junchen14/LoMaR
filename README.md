@@ -5,7 +5,7 @@
 </p>
 
 
-This is a PyTorch/GPU implementation of the paper [Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images](https://arxiv.org/abs/2206.00790):
+This is a PyTorch/GPU implementation of the paper [Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images](https://openaccess.thecvf.com/content/WACV2025/html/Chen_Local_Masked_Reconstruction_for_Efficient_Self-Supervised_Learning_on_High-Resolution_Images_WACV_2025_paper.html):
 
 
 

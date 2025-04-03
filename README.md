@@ -1,11 +1,11 @@
-## LoMaR (Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction)
+## LoMaR (Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images)
 
 <p align="center">
   <img src="assests/model_architecture.jpg" width="500">
 </p>
 
 
-This is a PyTorch/GPU implementation of the paper [Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction](https://arxiv.org/abs/2206.00790):
+This is a PyTorch/GPU implementation of the paper [Local Masked Reconstruction for Efficient Self-Supervised Learning on High-resolution Images](https://arxiv.org/abs/2206.00790):
 
 
 
@@ -93,10 +93,12 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for detai
 ### Citation
 
 ```
-@article{chen2022efficient,
-  title={Efficient Self-supervised Vision Pretraining with Local Masked Reconstruction},
-  author={Chen, Jun and Hu, Ming and Li, Boyang and Elhoseiny, Mohamed},
-  journal={arXiv preprint arXiv:2206.00790},
-  year={2022}
+@InProceedings{Chen_2025_WACV,
+    author    = {Chen, Jun and Khan, Faizan Farooq and Hu, Ming and Sherif, Ammar and Ge, Zongyuan and Li, Boyang and Elhoseiny, Mohamed},
+    title     = {Local Masked Reconstruction for Efficient Self-Supervised Learning on High-Resolution Images},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {8035-8045}
 }
 ```
